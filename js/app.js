@@ -117,7 +117,7 @@
 if(Multiplication === 'Associative' || 'Commutative' || 'Identity' || 'Distributive') {
   alert('Amazing job');
 } else {
-  Multiplication= prompt(' Try again')
+  Multiplication= alert(' Try again')
 }
 
 if(Multiplication === 'Associative' || 'Commutative' || 'Identity' || 'Distributive'){
